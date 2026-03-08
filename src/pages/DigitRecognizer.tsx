@@ -1,4 +1,5 @@
 import { useRef, useState, useEffect } from "react";
+import BackToPortfolio from "@/components/BackToPortfolio";
 
 export default function DigitRecognizer() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
