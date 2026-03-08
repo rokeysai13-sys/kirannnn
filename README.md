@@ -1,6 +1,6 @@
 # Sai Kiran's Portfolio
 
-## About
+## About me
 
 Personal portfolio showcasing machine learning, data science, and web development projects.
 
