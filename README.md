@@ -18,15 +18,4 @@ Personal portfolio showcasing machine learning, data science, and web developmen
 - Tailwind CSS + shadcn/ui
 - Recharts for data visualization
 
-## Getting Started
 
-```sh
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
-npm i
-npm run dev
-```
-
-## Deployment
-
-Deploy via your preferred hosting platform (Vercel, Netlify, etc.)
