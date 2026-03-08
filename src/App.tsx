@@ -18,7 +18,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/cybernetic-sai-portfolio">
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/projects/spam-detector" element={<SpamDetector />} />
